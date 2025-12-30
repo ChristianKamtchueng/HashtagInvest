@@ -1,0 +1,4 @@
+[Mon Dec 29 03:19:43.229185 2025] [ssl:error] AH02218: ssl_stapling_init_cert: no OCSP URI in certificate and no SSLStaplingForceURL set [subject: CN=dev.hashtaginvest.fr / issuer: CN=E7,O=Let's Encrypt,C=US / serial: 058B23ED6ED02C2369DF637059501A8DDAFE / notbefore: Oct 31 22:49:07 2025 GMT / notafter: Jan 29 22:49:06 2026 GMT]
+[Mon Dec 29 03:19:43.229212 2025] [ssl:error] AH02604: Unable to configure certificate dev.hashtaginvest.fr:443:0 for stapling
+[Mon Dec 29 03:19:43.380429 2025] [ssl:error] AH02218: ssl_stapling_init_cert: no OCSP URI in certificate and no SSLStaplingForceURL set [subject: CN=dev.hashtaginvest.fr / issuer: CN=E7,O=Let's Encrypt,C=US / serial: 058B23ED6ED02C2369DF637059501A8DDAFE / notbefore: Oct 31 22:49:07 2025 GMT / notafter: Jan 29 22:49:06 2026 GMT]
+[Mon Dec 29 03:19:43.380452 2025] [ssl:error] AH02604: Unable to configure certificate dev.hashtaginvest.fr:443:0 for stapling
